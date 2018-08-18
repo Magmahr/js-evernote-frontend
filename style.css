@@ -1,0 +1,18 @@
+.container {
+  background-color: #e1ffdd;
+  float: right;
+  height: 100%;
+  width: 73%;
+}
+
+.bg {
+  background-color: #e1ffdd;
+}
+
+
+.left {
+  background-color: #e1ffdd;
+  float: left;
+  height: 100%;
+  width: 23%;
+}
